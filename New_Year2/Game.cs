@@ -23,7 +23,7 @@ namespace новый_год
         {
             InitializeComponent();
             lives_picture = new PictureBox [] { pictureBox5, pictureBox4, pictureBox3, pictureBox2, pictureBox7, pictureBox6 };
-            words = new string[] { "карнавал", "праздник", "дед мороз", "сюрприз", "ёлочка" };
+            words = new string[] { "карнавал", "праздник", "дед мороз", "сюрприз", "ёлочка", "полночь", "подарок" };
             current_word = "";
             show_text = "";
             count_success = 0;
