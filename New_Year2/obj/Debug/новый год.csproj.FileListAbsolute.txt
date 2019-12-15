@@ -1,0 +1,47 @@
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.exe.config
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.exe
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.pdb
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csprojAssemblyReference.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Form1.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Game.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Loss.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Properties.Resources.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Success.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csproj.GenerateResource.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csproj.CoreCompileInputs.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.exe
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.pdb
+E:\Banana\новый год\новый год\obj\Debug\новый год.csprojAssemblyReference.cache
+E:\Banana\новый год\новый год\obj\Debug\новый_год.Form1.resources
+E:\Banana\новый год\новый год\obj\Debug\новый_год.Game.resources
+E:\Banana\новый год\новый год\obj\Debug\новый_год.Loss.resources
+E:\Banana\новый год\новый год\obj\Debug\новый_год.Properties.Resources.resources
+E:\Banana\новый год\новый год\obj\Debug\новый_год.Success.resources
+E:\Banana\новый год\новый год\obj\Debug\новый год.csproj.GenerateResource.cache
+E:\Banana\новый год\новый год\obj\Debug\новый год.exe
+E:\Banana\новый год\новый год\obj\Debug\новый год.pdb
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый год.csprojAssemblyReference.cache
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Form1.resources
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Game.resources
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Loss.resources
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Properties.Resources.resources
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Success.resources
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый год.csproj.GenerateResource.cache
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый год.exe
+E:\Banana\New_Year2\New_Year2\obj\Debug\новый год.pdb
+E:\Banana\New_Year2\New_Year2\bin\Debug\новый год.exe.config
+E:\Banana\New_Year2\New_Year2\bin\Debug\новый год.exe
+E:\Banana\New_Year2\New_Year2\bin\Debug\новый год.pdb
+D:\Banana\New_Year2\New_Year2\bin\Debug\новый год.exe.config
+D:\Banana\New_Year2\New_Year2\bin\Debug\новый год.exe
+D:\Banana\New_Year2\New_Year2\bin\Debug\новый год.pdb
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый год.csprojAssemblyReference.cache
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Form1.resources
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Game.resources
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Loss.resources
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Properties.Resources.resources
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый_год.Success.resources
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый год.csproj.GenerateResource.cache
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый год.csproj.CoreCompileInputs.cache
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый год.exe
+D:\Banana\New_Year2\New_Year2\obj\Debug\новый год.pdb
